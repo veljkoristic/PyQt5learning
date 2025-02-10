@@ -1,2 +1,2 @@
 # PyQt5learning
-Tutorial and learning PyQt5
+Tutorial by YouTube channel Tech with Tim
